@@ -1,0 +1,5 @@
+1. Go to the Tornevall Networks AntiSpam and Fraud Blacklist (DNSBL) Plugin panel in your dashboard.
+2. Go to API tab.
+3. In API tab Application API ID/Name fields are vulnerable.
+4.Enter the below payload into these input fields and click on Save Changes button: 
+"><script>alert(document.cookie)</script>
